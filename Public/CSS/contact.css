@@ -1,0 +1,40 @@
+html, body {
+    font-family: 'Nanum Gothic', sans-serif;
+    margin:0;
+    background-color: rgb(36, 41, 143);
+    margin-top: 200px;
+}
+iframe {
+    display:block;
+    margin:auto;
+    width: 75%;
+    height: 550px;
+}
+form {
+    margin: auto;
+    font-size: 20px;
+    display:block;
+    text-align:center;
+}
+form input, form textarea {
+    font-size:20px;
+    display:block;
+    margin:auto;
+    border-radius:5px;
+    width: 300px;
+}
+.submit {
+    display:block;
+    margin:auto;
+    width: 200px;
+}
+#message {
+    width:600px;
+    height:200px;
+    resize:none;
+    border-radius:10px;
+}
+#email {
+    width:300px;
+}
+
